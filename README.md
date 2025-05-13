@@ -20,8 +20,6 @@
 * [😎了解作者&获取更多学习资料](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
 * [👨‍👩‍👦DotNetGuide技术社区微信交流群](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
 
-<a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" width="58%"/></a>
-
 
 ## 🎉Issues宝藏存库
 🙌知识库中有总结不足的地方，欢迎各位大佬给我提意见([💖留下您宝贵的建议](https://github.com/YSGStudyHards/DotNetGuide/issues/7))。
